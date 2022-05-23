@@ -1,32 +1,35 @@
 {
-  "beta": {
+  "5.4.10": {
     "phpVersions": [
       "7.4",
       "8.0",
       "8.1"
     ],
-    "sha1": "23f548bb3a25512ea593e238c03b0d0fcc68420e",
-    "upstream": "6.0-RC3",
+    "sha1": "cab576e112c45806c474b3cbe0d1263a2a879adf",
+    "upstream": "5.9.3",
     "variants": [
       "apache",
       "fpm",
       "fpm-alpine"
     ],
-    "version": "6.0-RC3"
+    "version": "5.9.3"
   },
-  "cli": {
+  "5.8.4": {
     "phpVersions": [
       "7.4",
       "8.0",
       "8.1"
     ],
-    "sha512": "d73f9161a1f03b8ecaac7b196b6051fe847b3c402b9c92b1f6f3acbe5b1cf91f7260c0e499b8947bab75920ecec918b39533ca65fa5a1fd3eb6ce7b8e2c58e7d",
+    "sha1": "cab576e112c45806c474b3cbe0d1263a2a879adf",
+    "upstream": "5.9.3",
     "variants": [
-      "alpine"
+      "apache",
+      "fpm",
+      "fpm-alpine"
     ],
-    "version": "2.6.0"
+    "version": "5.9.3"
   },
-  "latest": {
+  "5.9.3": {
     "phpVersions": [
       "7.4",
       "8.0",
